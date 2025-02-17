@@ -7,10 +7,10 @@ Put Option
 Strike Price
 
 Call-Prediction for Buy
-If you decide market will go up
+If you decide the market will go up
 
 Put-Prediction for Sell
-If you decide market will go down
+If you decide the market will go down
 
 Put option is a insurance of share, so first we need a share then put option
 
@@ -27,3 +27,11 @@ Inside the current price money
 
 Premium
 Current Markt Price - Strike Price = Premium
+
+Option Writes
+
+Writing means selling options
+
+
+If you buy limited risk and unlimited profits
+If you sell limited profit and unlimited risk
