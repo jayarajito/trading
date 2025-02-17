@@ -1,0 +1,29 @@
+Options Trading
+https://www.youtube.com/watch?v=9JUOEKORkkM&list=PLIIhNGr4LyH9r_45I_SQ0sTyuVimeGZT3
+
+Basic 3
+Call Option
+Put Option
+Strike Price
+
+Call-Prediction for Buy
+If you decide market will go up
+
+Put-Prediction for Sell
+If you decide market will go down
+
+Put option is a insurance of share, so first we need a share then put option
+
+Option Chain
+ATM-At The Money
+strike price is the nearest to the current market price
+
+OTM-Out of The Money
+Future Price
+
+ITM- In the Money
+Inside the current price money
+
+
+Premium
+Current Markt Price - Strike Price = Premium
