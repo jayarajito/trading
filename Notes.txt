@@ -54,3 +54,47 @@ extrinsic value = current market price - strike price (time value + implied vola
 If you call Buyer you only paying a premium price
 
 If you call seller you have to pay the Margin(current market price X lot size)
+
+
+Most Writers (sellers) will success
+
+Never average loss
+
+
+Option Buyers Vs Option Writers
+
+For retailers Option Buy is best
+For institute Option Write is ok
+
+Which is Best Positional Trading or Expiry Trading?
+
+Positional Trading
+1. Which strike price we need to buy?
+Avoid more out of the money
+
+2. Need to know the monthly movement
+
+3. Need to know greeks values
+
+4. Dont wait for doubling
+
+5. we can wait for next day
+
+Expiry Trading?
+1. low premium
+2. Chance to get double triple
+3. Quick Entry and Exit
+4. avoid out of the money
+
+Should know major
+which strike price need to buy
+What is the trend
+Money management
+Moments
+Out of the money should not buy
+
+7th Video
+https://www.youtube.com/watch?v=u9gGyj-pnHA&list=PLIIhNGr4LyH9r_45I_SQ0sTyuVimeGZT3&index=7
+Trading Option Profitable or Not ?
+
+
