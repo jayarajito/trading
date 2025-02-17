@@ -35,3 +35,22 @@ Writing means selling options
 
 If you buy limited risk and unlimited profits
 If you sell limited profit and unlimited risk
+
+
+Call Buying - Prediction for Buying
+Put Buying - Prediction for Sell
+
+Call Writing -Prediction for Sell (Market Going Down)
+Put Writing -Prediction for Buy(Market Going Up)
+
+
+Need to know where to Buy and Where to Sell
+
+intrinsic value and extrinsic value
+
+intrinsic value =current market price - strike price
+extrinsic value = current market price - strike price (time value + implied volatility)
+
+If you call Buyer you only paying a premium price
+
+If you call seller you have to pay the Margin(current market price X lot size)
