@@ -109,4 +109,38 @@ The intraday Option is not recommended, since we already paid so need to wait fo
 https://www.youtube.com/watch?v=RWQiSyuDs_s&list=PLIIhNGr4LyH9r_45I_SQ0sTyuVimeGZT3&index=9
 Option Trading-ல் Intraday & Positional செய்வது எப்படி ?
 
+go before the moment
+understand the trend
+
+10th Video
+https://www.youtube.com/watch?v=lo0wfsSbRWc&list=PLIIhNGr4LyH9r_45I_SQ0sTyuVimeGZT3&index=10
+Basics of Option Trading in Index and Stocks Explained
+
+3 types of money
+In The Money
+At The Money
+Out of The Money
+
+If market goes up, then buy call option
+If market goes down, then buy put option
+
+intrinsic value only in the In The Money 
+
+extrinsic value will be zero at the expiry date
+
+11th Video
+https://www.youtube.com/watch?v=AOHyOzRP6dM&list=PLIIhNGr4LyH9r_45I_SQ0sTyuVimeGZT3&index=11
+Some sample spread strategy
+
+At the Money call option Buy
+Out of the Money call option sell for around 400 points
+
+Technical Analysis is important
+
+12th Video
+https://www.youtube.com/watch?v=VMK4uP_9ZX8&list=PLIIhNGr4LyH9r_45I_SQ0sTyuVimeGZT3&index=12
+Option Buying 
+
+
+
 
