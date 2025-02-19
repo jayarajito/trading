@@ -1,7 +1,19 @@
 How To Trade On Expiry Day in Tamil 
 https://www.youtube.com/watch?v=qA4KuxNOi7A&t=361s
 
-Check Previous Day high and Low
-Wait first 15 minutes
+Check the Previous Day's high and Low
+
+
+Wait the first 15 minutes
+Then check for 15 minutes high and low using indicator ORB
 Buy ITM put option when 15 mins low broken
 Stop loss for put option trade, 1st 15 mins high on the spot
+
+Buy ITM Call Option When 15 mins High Broken
+Stop loss for call option trade, 1st 15 mins low on spot
+
+Candle Patterns Alert
+Use indicator -Candle Patterns Alert
+Engulfing Pattern
+if goes above engulfing then buy the call option
+if goes below engulfing then by put option
