@@ -1,2 +1,32 @@
 https://www.youtube.com/@OPTIONTRICKYTRADE/playlists
 
+Option Basic
+Video1
+https://www.youtube.com/watch?v=UCF5r9KZtrQ&list=PLUPlWbsyXxprDuT1hW4wC9yrs-vgcAGXJ
+
+3 Segments
+1. Cash Market
+2. Derivatives - Future and Options
+
+Option Premium = I.V + T.V
+
+Video2
+https://www.youtube.com/watch?v=GtKfjVYFkKM&list=PLUPlWbsyXxprDuT1hW4wC9yrs-vgcAGXJ&index=2
+
+Option Premium = I.V + T.V
+
+Call Option
+
+Intrinsic Value =spot price - option strike
+
+If Positive(ITM CALL) is Fair Price
+If Negative(OTM CALL) is Zero Fair Price
+
+Time Value = option premium - IV
+
+Video3
+https://www.youtube.com/watch?v=R6VKaPSHH9c&list=PLUPlWbsyXxprDuT1hW4wC9yrs-vgcAGXJ&index=3
+
+
+
+
