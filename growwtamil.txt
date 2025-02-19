@@ -1,0 +1,7 @@
+How To Trade On Expiry Day in Tamil 
+https://www.youtube.com/watch?v=qA4KuxNOi7A&t=361s
+
+Check Previous Day high and Low
+Wait first 15 minutes
+Buy ITM put option when 15 mins low broken
+Stop loss for put option trade, 1st 15 mins high on the spot
