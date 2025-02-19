@@ -17,3 +17,5 @@ Use indicator -Candle Patterns Alert
 Engulfing Pattern
 if goes above engulfing then buy the call option
 if goes below engulfing then by put option
+
+Reversal candle pattern setup
