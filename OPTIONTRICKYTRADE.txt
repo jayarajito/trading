@@ -27,6 +27,22 @@ Time Value = option premium - IV
 Video3
 https://www.youtube.com/watch?v=R6VKaPSHH9c&list=PLUPlWbsyXxprDuT1hW4wC9yrs-vgcAGXJ&index=3
 
+Option Premium = I.V + T.V
+
+Putt Option
+
+Intrinsic Value = option strike - spot price
+
+If Positive(ITM CALL) is Fair Price
+If Negative(OTM CALL) is Zero Fair Price
+
+Time Value = option premium - IV
+
+Video4
+https://www.youtube.com/watch?v=ZYr8C_aL4xQ&list=PLUPlWbsyXxprDuT1hW4wC9yrs-vgcAGXJ&index=4
+
+Video5
+https://www.youtube.com/watch?v=_4sxezAfOIs&list=PLUPlWbsyXxprDuT1hW4wC9yrs-vgcAGXJ&index=5
 
 
 
